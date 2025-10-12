@@ -1,4 +1,4 @@
-# LWC Basic
+# 2chAPIProxy
 
 Lightning Web Components を基礎から学習していきましょう。
 
@@ -18,10 +18,10 @@ Lightning Web Components を基礎から学習していきましょう。
 
 ## Curriculum
 
-- [事前準備](https://github.com/takahitomiyamoto/lwc-basic/wiki/Prerequisite)
-- [準備運動](https://github.com/takahitomiyamoto/lwc-basic/wiki/Warm-up)
-- [演習問題](https://github.com/takahitomiyamoto/lwc-basic/wiki/Exercises)
-- [次のステップ](https://github.com/takahitomiyamoto/lwc-basic/wiki/Next-Step)
+- [事前準備](https://github.com/takahitomiyamoto/2chAPIProxy/wiki/Prerequisite)
+- [準備運動](https://github.com/takahitomiyamoto/2chAPIProxy/wiki/Warm-up)
+- [演習問題](https://github.com/takahitomiyamoto/2chAPIProxy/wiki/Exercises)
+- [次のステップ](https://github.com/takahitomiyamoto/2chAPIProxy/wiki/Next-Step)
 
 ## Appendix
 
@@ -51,4 +51,4 @@ Lightning Web Components を基礎から学習していきましょう。
 
 # Landing Page
 
-- [GitHub Page](https://takahitomiyamoto.github.io/lwc-basic/)
+- [GitHub Page](https://takahitomiyamoto.github.io/2chAPIProxy/)
